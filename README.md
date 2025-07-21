@@ -20,3 +20,20 @@ This project predicts customer churn (whether a customer will leave a telecom se
 - Accuracy: ~80%
 
 ## 📁 Project Structure
+Customer_Churn_Prediction/
+│
+├── Customer_Churn_Prediction.ipynb
+├── README.md
+└── (Optional) WA_Fn-UseC_-Telco-Customer-Churn.csv
+
+
+## 📌 Output
+- Confusion Matrix, Accuracy, Classification Report
+- Real business insights for churn rate and prevention
+
+---
+
+## 🤖 Author
+Naga Venkata Ashok Aki  
+LinkedIn: [Ashok Aki](https://www.linkedin.com/in/ashok-aki-b2681027a/)
+
